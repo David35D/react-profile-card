@@ -1,6 +1,14 @@
-# Getting Started with Create React App
+# Profile Card Component
+
+![component-preview](./public/c1-prev.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+Made for practicing React fundamentals:
+- Components
+- JSX
+- Props
+- Styling
 
 ## Available Scripts
 
