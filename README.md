@@ -1,6 +1,6 @@
 # Profile Card Component
 
-![component-preview](./public/c1-prev.png)
+![component-preview](./public/c2-prev.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
